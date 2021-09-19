@@ -1,0 +1,16 @@
+C:\Users\guilh\dio.series\obj\Debug\net5.0\dio.series.csproj.AssemblyReference.cache
+C:\Users\guilh\dio.series\obj\Debug\net5.0\dio.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\dio.series\obj\Debug\net5.0\dio.series.AssemblyInfoInputs.cache
+C:\Users\guilh\dio.series\obj\Debug\net5.0\dio.series.AssemblyInfo.cs
+C:\Users\guilh\dio.series\obj\Debug\net5.0\dio.series.csproj.CoreCompileInputs.cache
+C:\Users\guilh\dio.series\bin\Debug\net5.0\dio.series.exe
+C:\Users\guilh\dio.series\bin\Debug\net5.0\dio.series.deps.json
+C:\Users\guilh\dio.series\bin\Debug\net5.0\dio.series.runtimeconfig.json
+C:\Users\guilh\dio.series\bin\Debug\net5.0\dio.series.runtimeconfig.dev.json
+C:\Users\guilh\dio.series\bin\Debug\net5.0\dio.series.dll
+C:\Users\guilh\dio.series\bin\Debug\net5.0\ref\dio.series.dll
+C:\Users\guilh\dio.series\bin\Debug\net5.0\dio.series.pdb
+C:\Users\guilh\dio.series\obj\Debug\net5.0\dio.series.dll
+C:\Users\guilh\dio.series\obj\Debug\net5.0\ref\dio.series.dll
+C:\Users\guilh\dio.series\obj\Debug\net5.0\dio.series.pdb
+C:\Users\guilh\dio.series\obj\Debug\net5.0\dio.series.genruntimeconfig.cache
